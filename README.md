@@ -1,7 +1,9 @@
 # Redux kullanılarak ToDo uygulaması:  
-`npx create-react-app `  ile react projemizi oluşturuyoruz.
+`npx create-react-app `  
+ile react projemizi oluşturuyoruz.
 
-`npm install @reduxjs/toolkit react-redux`  komutu ile redux kurulumunu yapıyıyoruz.  
+`npm install @reduxjs/toolkit react-redux`  
+komutu ile redux kurulumunu yapıyıyoruz.  
 
 Api adında backend dosyasını yüklüyoruz ve api dizinine gidiyoruz.  
 `cd api`  
